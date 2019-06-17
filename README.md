@@ -9,4 +9,4 @@ Numpy, Pandas, Matplotlib, Seaborn and Sklearn.
 ## Results
 * Price of AirBNB homes in Boston tend to be higher than that in Seattle.
 * Boat is most expensive property type among all property types in Seattle. Guesthouse is most expensive property type among all property types in Boston.
-* You can view the detailed post on the (medium)[https://medium.com/@junlu958/airbnb-boston-vs-seattle-662b1cb67c13?postPublishedType=repub] 
+* You can view the detailed post on the [medium](https://medium.com/@junlu958/airbnb-boston-vs-seattle-662b1cb67c13?postPublishedType=repub)
